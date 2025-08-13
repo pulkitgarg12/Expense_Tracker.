@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expense Tracker – Microservices-Based Backend
 
 A modular expense tracking backend system built with a microservices architecture using Java Spring Boot. It leverages Kafka for event-driven communication and is fully containerized with Docker for scalable deployments.
@@ -29,3 +30,6 @@ A modular expense tracking backend system built with a microservices architectur
 - **Architecture:** Microservices
 
 
+=======
+# Expense_Tracker.
+>>>>>>> 22f313bc18c32f8eaedc99e1fac7cda9faf40452
